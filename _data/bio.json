@@ -6,11 +6,11 @@
     "email": "roboticsandmachinevisionlab@gmail.com",
     "phone": "",
     "website": "https://RoboMV-LAb.github.io",
-    "summary": "we are @RoboMV-LAb, the AI, Neuroscience, and Signal Processing Lab at Sharif University of Technology in the Electrical Engineering Department. Our lab is supervised by Dr. Jahed.",
+    "summary": "we are @RoboMV-LAb, the AI, Neuroscience, and Signal Processing Lab at Sharif University of Technology in the Electrical Engineering Department. Dr. Jahed supervises our lab.",
     "location": { "address": "", "postalCode": "", "city": "Tehran", "countryCode": "IRN", "region": "Tehran" },
     "profiles": [
       { "network": "github", "username": "RoboMV-LAb", "url": "http://github.com/RoboMV-LAb" },
-      { "network": "linkedin", "username": "mollymaluhia", "url": "http://github.com/RoboMV-LAb" }
+      { "network": "linkedin", "username": "RoboMV-lab", "url": "http://github.com/RoboMV-LAb" }
      
     ]
   },
@@ -33,3 +33,4 @@
       "summary": "",
      
 }]
+}
