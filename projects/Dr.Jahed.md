@@ -72,4 +72,5 @@ Dr. Mehran Jahed completed his EE Bachelor's degree in EE in 1982, at Purdue Uni
 </ul>
 <p><strong>Google Scholar Profile:</strong> <a href="https://scholar.google.com/citations?hl=en&user=g4iOgRsAAAAJ&view_op=list_works&sortby=pubdate">View Profile</a></p>
 
+<p><strong>Personal page(old version):</strong> <a href="https://sina.sharif.edu/~jahed/">View page</a></p>
 <hr>
