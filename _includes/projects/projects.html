@@ -2,7 +2,7 @@
   <div class="container">
     <div class="row mb-3">
       <div class="col-md-6">
-        <h1 class="display-4 text-start">People</h1> <!-- Replace "Projects" with "People" -->
+        <h1 class="display-4 text-start">Projects</h1> <!-- Keep "Projects" in the headline -->
       </div>
     </div>
 
@@ -22,5 +22,7 @@
       <p class="text-center pt-4"><a href="{{ site.baseurl}}/people/">See all {{ people_pages.size }} people</a></p> <!-- Replace "projects" with "people" -->
     {% endif %}
 
+    <!-- If you want to keep the "Project" pages accessible but not displayed, you can add a link to the "Project" page here. -->
+    <p class="text-center"><a href="{{ site.baseurl}}/projects/">See all projects</a></p>
   </div>
 </div>
