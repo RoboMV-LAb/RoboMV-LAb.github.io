@@ -10,9 +10,9 @@
         <p class="lead">{{ site.data.bio.basics.summary }}</p>
         <hr class="my-4">
         <p class="lead m-0">
-          Interests:
-          {% for interest in site.data.bio.interests %}
-          {{ interest.name }}{% if forloop.last != true %}, {% endif %}
+          Research Areas: <!-- Replace "Interests" with "Research Areas" -->
+          {% for area in site.data.bio["Research Area"] %}
+          {{ area.name }}{% if forloop.last != true %}, {% endif %}
           {% endfor %}
         </p>
         <hr class="my-4">
