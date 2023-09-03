@@ -3,13 +3,12 @@ layout: project
 type: project
 image: img/Dr.Jahed.png
 
-title: "Dr.Jahed"
+title: "Dr.Mehran Jahed"
 date: 
 published: true
 labels:
-  - Lisp
-  - GitHub
-summary: "Associate Professor, Sharif University of Technology."
+
+summary: "Associate Professor, Sharif University of Technology. Email: jahed@sharif.edu"
 ---
 
 <img class="img-fluid" src="../img/Dr.Jahed.png">
@@ -54,4 +53,4 @@ Dr. Mehran Jahed completed his EE Bachelor's degree in EE in 1982, at Purdue Uni
 <hr>
 
 
-You can see my publications in here :[Google scholar]([https://manoa.hawaii.edu/news/article.php?aId=2857](https://scholar.google.com/citations?user=g4iOgRsAAAAJ&hl=en)https://scholar.google.com/citations?user=g4iOgRsAAAAJ&hl=en).
+You can see my publications in here :[Google scholar]([[https://manoa.hawaii.edu/news/article.php?aId=2857](https://scholar.google.com/citations?user=g4iOgRsAAAAJ&hl=en)https://scholar.google.com/citations?user=g4iOgRsAAAAJ&hl=en](https://scholar.google.com/citations?hl=en&user=g4iOgRsAAAAJ&view_op=list_works&sortby=pubdate)https://scholar.google.com/citations?hl=en&user=g4iOgRsAAAAJ&view_op=list_works&sortby=pubdate).
