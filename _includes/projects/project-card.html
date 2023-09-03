@@ -12,7 +12,7 @@
           <span style="background-color: var(--tf-pill-bg)" class="badge rounded-pill">{{ label }}</span>
           {% endfor %}
         </p>
-        {% if page.peopleurl %}
+        {% if page.projecturl %}
         <a href="{{ page.peopleurl }}" class="btn btn-outline-dark">People Site</a> <!-- Replace "Projects Site" with "People Site" -->
         {% else %}
         <a href="{{ site.baseurl}}{{ include.page.url }}" class="btn btn-outline-dark">Read More</a>
