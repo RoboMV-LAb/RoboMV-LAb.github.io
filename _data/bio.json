@@ -1,52 +1,36 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Robotics and Machine Vision Lab</title>
-</head>
-<body>
-    <h1>Robotics and Machine Vision Lab</h1>
-    
-    <div id="lab-info"></div>
-    <h2>Research Areas</h2>
-    <ul id="research-areas"></ul>
+{
+  "basics": {
+    "name": "Robotics and Machine Vision Lab",
+    "label": "",
+    "picture": "https://github.com/RoboMV-LAb.png",
+    "email": "roboticsandmachinevisionlab@gmail.com",
+    "phone": "",
+    "website": "https://RoboMV-LAb.github.io",
+    "summary": "we are @RoboMV-LAb, the AI, Neuroscience, and Signal Processing Lab at Sharif University of Technology in the Electrical Engineering Department. Dr. Jahed supervises our lab.",
+    "location": { "address": "", "postalCode": "", "city": "Tehran", "countryCode": "IRN", "region": "Tehran" },
+    "profiles": [
+      { "network": "github", "username": "RoboMV-LAb", "url": "http://github.com/RoboMV-LAb" },
+      { "network": "linkedin", "username": "RoboMV-lab", "url": "http://github.com/RoboMV-LAb" }
+     
+    ]
+  },
+  "Research Area": [
+    { "name": "Neuroscience " },
+    { "name": "Computational Neuroscience" },
+    { "name": "AI" },
+    { "name": "Robotics" },
+    { "name": "Bio-signal Processing" }
+  ],
+ 
+  "work": [
 
-    <script>
-        // JSON data
-        const jsonData = {
-            "basics": {
-                // ... (your lab info)
-            },
-            "Research Area": [
-                { "name": "Neuroscience" },
-                { "name": "Computational Neuroscience" },
-                { "name": "AI" },
-                { "name": "Robotics" },
-                { "name": "Bio-signal Processing" }
-            ],
-            // ...
-        };
-
-        // Function to display lab info
-        function displayLabInfo(data) {
-            const labInfo = document.getElementById("lab-info");
-            labInfo.innerHTML = `<p>${data.basics.summary}</p><p>Email: ${data.basics.email}</p><p>Website: <a href="${data.basics.website}" target="_blank">${data.basics.website}</a></p>`;
-        }
-
-        // Function to display research areas
-        function displayResearchAreas(areas) {
-            const researchAreasList = document.getElementById("research-areas");
-            areas.forEach(area => {
-                const listItem = document.createElement("li");
-                listItem.textContent = area.name;
-                researchAreasList.appendChild(listItem);
-            });
-        }
-
-        // Call the functions to display lab info and research areas
-        displayLabInfo(jsonData);
-        displayResearchAreas(jsonData["Research Area"]);
-    </script>
-</body>
-</html>
+    {
+      "organization": "Sharif University of Technology",
+      "website": "",
+      "position": "",
+      "startDate": "",
+      "endDate": "",
+      "summary": "",
+     
+}]
+}
