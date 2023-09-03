@@ -18,41 +18,40 @@ Dr. Mehran Jahed completed his EE Bachelor's degree in EE in 1982, at Purdue Uni
 
 <hr>
 
-<pre>
-You open your eyes, and you are greeted by an unfamiliar ceiling.
-Startled, you get to your feet and quickly scan your surroundings. It's
-dark except for the stream of light coming from a crack on the only boarded
-window in the room. You try to peek through the crack, but you cannot see
-anything. You wonder where you are and who could have possibly brought you here.
+<h3>Research Interests</h3>
+<ul>
+  <li>Physiological Systems Modeling and Control</li>
+  <li>Bio-robotics and Prosthetic Devices</li>
+  <li>Machine Vision</li>
+  <li>Application of Artificial Intelligence in Medicine</li>
+  <li>Ultrasound and MRI Systems</li>
+</ul>
 
-<--------------------help------------------------>
-Enter quit or one of the following commands -
-Weld light look walk pickup inventory help h ?
-<------------------------------------------------>
+<h3>Courses Taught</h3>
+<p><strong>Biomedical:</strong></p>
+<ul>
+  <li>Biological Systems Modeling</li>
+  <li>MRI Systems</li>
+  <li>Bioinstrumentations</li>
+  <li>Advanced Bioinstrumentations</li>
+  <li>Control of Physiological Systems</li>
+  <li>Modeling and Control of Neuromuscular Systems</li>
+  <li>Medical Imaging Systems</li>
+</ul>
 
-look
-The room is a picture of decay with only a faded number identifying it as room-4. The bed you were
- lying on is stained with what looks like dried blood. Could it be your blood? No - it is not. The
- only way out of the room aside from the door to the corridor is a window that is boarded shut. It
- looks like it has been like that for decades. There is a door going west from here. You see a candle
- on the floor. You see a match on the floor.
-
-pickup candle
-- you are now carrying the candle -
-
-pickup match
-- you are now carrying the match -
-
-light match candle
-
-The candle is now lit. It illuminates everything in the room.
-
-walk west
-The corridor is lit with the candle. It is so long that you cannot see to the end. You notice that
- there are words written on the wall. There is a door going east from here. There is a way going north
- from here. There is a door going south from here.
-</pre>
+<p><strong>Digital and Control Systems:</strong></p>
+<ul>
+  <li>Robotics</li>
+  <li>Machine Vision</li>
+  <li>Computer Architecture</li>
+  <li>Microprocessor I</li>
+  <li>Microprocessor Interfacing Circuits</li>
+  <li>Industrial Electronics</li>
+  <li>Fundamentals of Electromechanical Machines</li>
+  <li>Industrial Control</li>
+</ul>
 
 <hr>
+
 
 You can see my publications in here :[Google scholar]([https://manoa.hawaii.edu/news/article.php?aId=2857](https://scholar.google.com/citations?user=g4iOgRsAAAAJ&hl=en)https://scholar.google.com/citations?user=g4iOgRsAAAAJ&hl=en).
