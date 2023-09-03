@@ -1,75 +1,47 @@
 ---
 layout: project
 type: project
-image: img/Dr.Jahed.png
+image: img/AliAkbari.png
 
-title: "Dr.Mehran Jahed"
+title: "Ali Akbari"
 date: 
 published: true
 labels:
 
-summary: "Associate Professor, Sharif University of Technology. Email: jahed@sharif.edu"
+summary: "Masters student in biomedical engineering"
 ---
 
-<img class="img-fluid" src="../img/Dr.Jahed.png">
+<img class="img-fluid" src="../img/AliAkbari.png">
 
-Dr. Mehran Jahed completed his EE Bachelor's degree in EE in 1982, at Purdue University, West Lafayette, IN, and his Masters's and Ph.D. in EE in 1987 and 1990, at the University of Kentucky. He was a post-doctoral fellow at the Center for Excellence for Biomedical Engineering at the University of Kentucky from 1990 to 1993. Since 1993 he has been a faculty member of the EE department at Sharif University of Technology. His research interests are in biomedical modeling and control, bio-robotics and prosthetic systems, virtual and augmented reality, and the application of artificial intelligence in medicine and biology.
-
+As a student deeply passionate about the field of Artificial Intelligence, I have a particular focus on Deep Learning and Machine Learning, with a strong interest in their applications in Bio-signal Processing and Bio-inspired Computing. I am currently in the 4th semester of my master’s program at Sharif University in Iran.
 <hr>
 <h3>Ongoing Projects</h3>
 
-<div class="row">
-  <div class="col-md-6">
-    <h4>Diagnosis and Treatment of Tinnitus Patients</h4>
-    <p><strong>Description:</strong> This project focuses on the diagnosis, treatment, and analysis of tinnitus patients. Tinnitus is a condition characterized by the perception of noise or ringing in the ears. The project aims to develop advanced methods and technologies to better understand tinnitus and improve its diagnosis and treatment.</p>
-    <img class="img-fluid" src="../img/photo_2023-09-03_13-41-28.jpg" alt="Tinnitus Project" width="300">
-  </div>
 
   <div class="col-md-6">
     <h4>Sleep Disorders Diagnosis Using Biosignals and Machine Learning</h4>
     <p><strong>Description:</strong> Another ongoing project involves the diagnosis of sleep disorders using biosignals and machine learning techniques. Sleep disorders can have a significant impact on an individual's health and quality of life. This project aims to develop algorithms and models that can analyze biosignals to detect and diagnose various sleep disorders, facilitating early intervention and treatment.</p>
-    <img class="img-fluid" src="../img/apnea.png" alt="Sleep Disorders Project" width="300">
+    <img class="img-fluid" src="../img/apnea.png" alt="Sleep Disorders Project" width="500">
   </div>
 </div>
+<h3>Thesis Title</h3>
+<p>Analysis of Sensory Data in Apnea Patients to Aid in Heterogeneous Control of Breathing Aid Pumps</p>
 
-<!-- Add some space below -->
+<h3>Thesis Description</h3>
+<p>My Master's thesis, conducted at Sharif University of Technology in Tehran, Iran, under the guidance of Dr. Jahed and Dr. Khalaj, is centered around the critical area of improving treatment for apnea patients. This research endeavors to enhance the care and management of apnea patients through a multidisciplinary approach that merges biomedical engineering with artificial intelligence (AI) methodologies.</p>
 
+<p>The project commenced in July 2022 and is currently ongoing. The primary objectives and achievements include:</p>
 
-<div style="margin-bottom: 20px;"></div>
-
-<h3>Research Interests</h3>
 <ul>
-  <li>Physiological Systems Modeling and Control</li>
-  <li>Bio-robotics and Prosthetic Devices</li>
-  <li>Machine Vision</li>
-  <li>Application of Artificial Intelligence in Medicine</li>
-  <li>Ultrasound and MRI Systems</li>
+  <li>Literature Review: A comprehensive literature review was conducted to explore existing data analysis techniques, with a specific focus on classification and signal processing methods. This served as the foundation for designing an innovative treatment approach for apnea patients using AI.</li>
+  
+  <li>Data Preprocessing: Robust data preprocessing techniques were developed and implemented to enhance the quality of sensory data. This included removing noise, eliminating artifacts, and applying wavelet decomposition to various physiological signals, such as ECG, EEG, Abdomen effort, Thorax effort, and Chin-EMG.</li>
+  
+  <li>Machine Learning and Deep Learning: Advanced machine learning and deep learning models were employed to extract relevant features from respiratory signals. These features were utilized to classify sleep events within diverse groups of apnea patients, contributing to the development of personalized treatment strategies.</li>
+  
+  <li>EEG Preprocessing: The Highly Automated Preprocessing Pipeline for EEG (HAPPE) was employed to preprocess EEG data. This step was crucial in ensuring the accuracy and reliability of EEG-derived insights for further analysis and treatment planning.</li>
 </ul>
 
-
-<h3>Courses Taught</h3>
-<p><strong>Biomedical:</strong></p>
-<ul>
-  <li>Biological Systems Modeling</li>
-  <li>MRI Systems</li>
-  <li>Bioinstrumentations</li>
-  <li>Advanced Bioinstrumentations</li>
-  <li>Control of Physiological Systems</li>
-  <li>Modeling and Control of Neuromuscular Systems</li>
-  <li>Medical Imaging Systems</li>
-</ul>
-
-<p><strong>Digital and Control Systems:</strong></p>
-<ul>
-  <li>Robotics</li>
-  <li>Machine Vision</li>
-  <li>Computer Architecture</li>
-  <li>Microprocessor I</li>
-  <li>Microprocessor Interfacing Circuits</li>
-  <li>Industrial Electronics</li>
-  <li>Fundamentals of Electromechanical Machines</li>
-  <li>Industrial Control</li>
-</ul>
-<p><strong>Google Scholar Profile:</strong> <a href="https://scholar.google.com/citations?hl=en&user=g4iOgRsAAAAJ&view_op=list_works&sortby=pubdate">View Profile</a></p>
+<p>In summary, this research project at Sharif University of Technology represents a significant effort to improve the management of apnea patients by harnessing the power of data analysis and AI-driven insights. It aims to pave the way for more effective and personalized control of breathing aid pumps, ultimately enhancing the quality of life for individuals affected by apnea.</p>
 
 <hr>
