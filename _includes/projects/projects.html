@@ -2,13 +2,13 @@
   <div class="container">
     <div class="row mb-3">
       <div class="col-md-6">
-        <h1 class="display-4 text-start">Projects</h1>
+        <h1 class="display-4 text-start">People</h1> <!-- Replace "Projects" with "People" -->
       </div>
     </div>
 
     <div class="vstack gap-3">
-      {% assign project_pages = site.pages | where: "type", "project" | sort: "date" | reverse %}
-      {% for page in project_pages %}
+      {% assign people_pages = site.pages | where: "type", "people" | sort: "date" | reverse %} <!-- Replace "project" with "people" -->
+      {% for page in people_pages %}
         {% unless page.draft %}
           {% include projects/project-card.html page=page %}
         {% endunless %}
@@ -18,8 +18,8 @@
       {% endfor %}
     </div>
 
-    {% if project_pages.size > include.limit %}
-      <p class="text-center pt-4"><a href="{{ site.baseurl}}/projects/">See all {{ project_pages.size }} projects</a></p>
+    {% if people_pages.size > include.limit %}
+      <p class="text-center pt-4"><a href="{{ site.baseurl}}/people/">See all {{ people_pages.size }} people</a></p> <!-- Replace "projects" with "people" -->
     {% endif %}
 
   </div>
