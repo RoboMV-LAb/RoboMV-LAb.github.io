@@ -14,8 +14,9 @@ summary: "Associate Professor, Sharif University of Technology."
 
 <img class="img-fluid" src="../img/Dr.Jahed.png">
 
-Cotton is a horror-style text-based adventure game I developed using the functions and macros built from The Wizard's Game in [Conrad Barski's Land of Lisp](http://landoflisp.com/). Slightly more interesting and convoluted! (It is not that scary.)
-
+Dr. Mehran Jahed completed his EE Bachelor's degree in EE in 1982, at Purdue University, West Lafayette, IN, and his Masters's and Ph.D. in EE in 1987 and 1990, at the University of Kentucky. He was a post-doctoral fellow at the Center for Excellence for Biomedical Engineering at the University of Kentucky from 1990 to
+1993. Since 1993 he has been a faculty member of the EE department at Sharif University of Technology.
+His research interests are in biomedical modeling and control, bio-robotics and prosthetic systems, virtual and augmented reality, and the application of artificial intelligence in medicine and biology.
 To give you a flavor of the game, here is an excerpt from one run:
 
 <hr>
