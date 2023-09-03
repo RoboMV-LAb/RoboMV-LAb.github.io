@@ -11,7 +11,8 @@ labels:
 summary: "Masters student in biomedical engineering"
 ---
 
-<img class="img-fluid" src="../img/AliAkbari.png">
+
+<img class="img-fluid" src="../img/AliAkbari.png" style="width: 200px; height: auto;">
 
 As a student deeply passionate about the field of Artificial Intelligence, I have a particular focus on Deep Learning and Machine Learning, with a strong interest in their applications in Bio-signal Processing and Bio-inspired Computing. I am currently in the 4th semester of my master’s program at Sharif University in Iran.
 <hr>
@@ -21,9 +22,9 @@ As a student deeply passionate about the field of Artificial Intelligence, I hav
   <div class="col-md-6">
     <h4>Sleep Disorders Diagnosis Using Biosignals and Machine Learning</h4>
     <p><strong>Description:</strong> Another ongoing project involves the diagnosis of sleep disorders using biosignals and machine learning techniques. Sleep disorders can have a significant impact on an individual's health and quality of life. This project aims to develop algorithms and models that can analyze biosignals to detect and diagnose various sleep disorders, facilitating early intervention and treatment.</p>
-    <img class="img-fluid" src="../img/apnea.png" alt="Sleep Disorders Project" width="500">
+    <img class="img-fluid" src="../img/apnea.png" alt="Sleep Disorders Project" width="350">
   </div>
-</div>
+
 <h3>Thesis Title</h3>
 <p>Analysis of Sensory Data in Apnea Patients to Aid in Heterogeneous Control of Breathing Aid Pumps</p>
 
