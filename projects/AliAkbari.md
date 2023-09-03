@@ -46,6 +46,6 @@ As a student deeply passionate about the field of Artificial Intelligence, I hav
 <p>In summary, this research project at Sharif University of Technology represents a significant effort to improve the management of apnea patients by harnessing the power of data analysis and AI-driven insights. It aims to pave the way for more effective and personalized control of breathing aid pumps, ultimately enhancing the quality of life for individuals affected by apnea.</p>
 
 
-<p><strong>More information:</strong> <a href="https://github.com/Ali-BME-CS/Ali-BME-CS.github.io">View my Github</a></p>
+<p><strong>More information:</strong> <a href="https://ali-bme-cs.github.io/">View my Github</a></p>
 
 <hr>
