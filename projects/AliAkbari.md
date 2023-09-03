@@ -8,7 +8,7 @@ date:
 published: true
 labels:
 
-summary: "Masters student in biomedical engineering"
+summary: "Masters student in biomedical engineering, Sharif University of Technology"
 ---
 
 
