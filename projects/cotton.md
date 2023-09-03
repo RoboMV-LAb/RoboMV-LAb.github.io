@@ -49,8 +49,6 @@ Dr. Mehran Jahed completed his EE Bachelor's degree in EE in 1982, at Purdue Uni
   <li>Fundamentals of Electromechanical Machines</li>
   <li>Industrial Control</li>
 </ul>
+<p><strong>Google Scholar Profile:</strong> <a href="https://scholar.google.com/citations?hl=en&user=g4iOgRsAAAAJ&view_op=list_works&sortby=pubdate">View Profile</a></p>
 
 <hr>
-
-
-You can see my publications in here :[Google scholar]([[https://manoa.hawaii.edu/news/article.php?aId=2857](https://scholar.google.com/citations?user=g4iOgRsAAAAJ&hl=en)https://scholar.google.com/citations?user=g4iOgRsAAAAJ&hl=en](https://scholar.google.com/citations?hl=en&user=g4iOgRsAAAAJ&view_op=list_works&sortby=pubdate)https://scholar.google.com/citations?hl=en&user=g4iOgRsAAAAJ&view_op=list_works&sortby=pubdate).
