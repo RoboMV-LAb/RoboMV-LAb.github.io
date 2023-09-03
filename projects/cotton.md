@@ -22,15 +22,21 @@ Dr. Mehran Jahed completed his EE Bachelor's degree in EE in 1982, at Purdue Uni
   <div class="col-md-6">
     <h4>Diagnosis and Treatment of Tinnitus Patients</h4>
     <p><strong>Description:</strong> This project focuses on the diagnosis, treatment, and analysis of tinnitus patients. Tinnitus is a condition characterized by the perception of noise or ringing in the ears. The project aims to develop advanced methods and technologies to better understand tinnitus and improve its diagnosis and treatment.</p>
-    <img class="img-fluid" src="../img/photo_2023-09-03_13-41-28.jpg" alt="Tinnitus Project">
+    <img class="img-fluid" src="../img/photo_2023-09-03_13-41-28.jpg" alt="Tinnitus Project" width="300">
   </div>
 
   <div class="col-md-6">
     <h4>Sleep Disorders Diagnosis Using Biosignals and Machine Learning</h4>
     <p><strong>Description:</strong> Another ongoing project involves the diagnosis of sleep disorders using biosignals and machine learning techniques. Sleep disorders can have a significant impact on an individual's health and quality of life. This project aims to develop algorithms and models that can analyze biosignals to detect and diagnose various sleep disorders, facilitating early intervention and treatment.</p>
-    <img class="img-fluid" src="../img/apnea.png" alt="Sleep Disorders Project">
+    <img class="img-fluid" src="../img/apnea.png" alt="Sleep Disorders Project" width="300">
   </div>
 </div>
+
+<!-- Add some space below -->
+
+
+<div style="margin-bottom: 20px;"></div>
+
 <h3>Research Interests</h3>
 <ul>
   <li>Physiological Systems Modeling and Control</li>
@@ -39,6 +45,7 @@ Dr. Mehran Jahed completed his EE Bachelor's degree in EE in 1982, at Purdue Uni
   <li>Application of Artificial Intelligence in Medicine</li>
   <li>Ultrasound and MRI Systems</li>
 </ul>
+
 
 <h3>Courses Taught</h3>
 <p><strong>Biomedical:</strong></p>
